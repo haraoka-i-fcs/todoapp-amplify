@@ -1,1 +1,2 @@
-# todoapp-amplify
+# todoApp
+todoApp for Nuxt3
